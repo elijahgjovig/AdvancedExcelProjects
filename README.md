@@ -1,5 +1,7 @@
-# AdvancedExcelProjects
-3rd Excel project, downloaded several data sets included in the xlsx file. Used multiple different advanced funtions and Excel features which I will include below
+# Advanced Excel Project
+I downloaded several data as seen in the xlsx file which I have linked. Used multiple different advanced funtions and Excel features which I will include below
+
+If you want to look in-depth at the full project, feel free to download the excel file.
 
 ## If Funtion
 Utilized SumIf functions to determine if each salesperson met the weekly and monthly Sales Goals. Under "Bonus Status" I used the "IFAND" functions to first determine if the total sales of the salesperson for the month are equal to the top cell "I2" (34,000), AND second to determine if the cell range minimum is greater than the weekly goal of 8000 in Sales. Then the IF statement if true returns the value "BONUS" and if fales returns "NO BONUS" the formula I used looks like: 
