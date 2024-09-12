@@ -76,7 +76,7 @@ I Calculated the alternative interest rates in this data table. Still used the P
 ## Scenario Manager
 Used the scenario manager to create 3 different forecasts to predict the sales growth per quarter.				
 				
-## Intro to Macros
+## Intro to Macros & VBA
 Stored code in a module to develop macros which resulted in seamlessly automating all future tables in Excel that I create.						
 						
 Tested the Macro with this set of data. The button above creates the Macro.					
